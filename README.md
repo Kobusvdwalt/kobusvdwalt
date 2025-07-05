@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hi, I'm Kobus
 
-<!--
-**Kobusvdwalt/kobusvdwalt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Full Stack Devops Engineer, with ~10 years of professional experience. Orginally from South Africa, I now live in The Netherlands, where I spend my time helping business build modern cloud native applications.
 
-Here are some ideas to get you started:
+### 💻 Frontend Tech
+* TypeScript / React / NextJS / Bun
+* Rest / GraphQL
+* Sentry / Jest
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚙️ Backend Tech
+* Python, FastAPI, Strawberry GQL, uv
+* Pytest
+* TypeScript, ElysiaJS / ExpresJS
+* C#
+
+### 🚀 DevOps Tech
+* Kubernetes, Helm, Docker
+* ArgoCD, GitHub Actions
+* Loki / Grafana / Temp / Mimir / Opsgenie
+
+### 🔨Hobby Stuff
+* TRPC
+* Vercel's AI SDK / Generative UI
+* Ollama / DeepSeek
+* Pytorch
+* Android & Lynx
+* Unity
+
+### 🌍 Spoken Languages
+- 🇬🇧 **English** — Native  
+- 🇿🇦 **Afrikaans** — Native  
+- 🇳🇱 **Dutch** — Working Proficiency
+
+## On the Horizon
+I'm looking to implement some go / kotlin microservices and write a rust cli tool of course. I've also been told that real programmers use vim, so I should probably check that out.
+
+Thanks for stopping by! ⭐

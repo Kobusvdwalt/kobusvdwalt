@@ -5,7 +5,7 @@ I'm a Full Stack Devops Engineer, with ~10 years of professional experience. Org
 ### 💻 Frontend Tech
 * TypeScript / React / NextJS / Bun
 * Rest / GraphQL
-* Sentry / Jest
+* Sentry / Jest / Playwright
 
 ### ⚙️ Backend Tech
 * Python, FastAPI, Strawberry GQL, uv

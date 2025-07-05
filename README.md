@@ -9,7 +9,7 @@ I'm a Full Stack Devops Engineer, with ~10 years of professional experience. Org
 
 ### ⚙️ Backend Tech
 * Python, FastAPI, Strawberry GQL, uv
-* Pytest
+* Pytest, Postgres, MongoDB
 * TypeScript, ElysiaJS / ExpresJS
 * C#
 
